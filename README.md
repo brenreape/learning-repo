@@ -6,3 +6,9 @@ example read me file!
 
 another example
 
+## branch demo
+
+feature-readme xxx
+
+1. Open index.html in your browser.
+
